@@ -34,7 +34,7 @@ async def on_ready():
   await client.start()
   await client.run_until_disconnected()
 
-bot.run('(токен бота)') # гайд как получить token и как его добавить https://black-minecraft.com/tutorial/2141-kak-poluchit-token-bota-discord.html
+bot.run('(токен бота)') # гайд как получить токен бота и как добавить бота на сервер https://black-minecraft.com/tutorial/2141-kak-poluchit-token-bota-discord.html
 
 
 
