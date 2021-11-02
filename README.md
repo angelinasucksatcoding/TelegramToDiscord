@@ -1,4 +1,3 @@
 # TelegramToDiscord
-Sends telegram messages to discord
 
-How to setup: 
+Отправляет сообщение из телеграма в дискорд. гайд как настроить написан в main.py.
